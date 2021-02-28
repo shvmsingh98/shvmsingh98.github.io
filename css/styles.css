@@ -1,0 +1,47 @@
+
+body{
+   color: #343434;
+}
+img{
+   width : 300px; 
+}
+
+/*-----------------------------------profile-------------------------------------------------------*/
+
+header{
+   background: #2F3061;
+   color:#F7FFF7;
+}
+
+/*-----------------------------------projects------------------------------------------------*/
+
+
+.projects{
+  background: #F7FFF7;
+}
+.projects a{
+   color:#F7FFF7;
+   background:#2F3061;
+   text-decoration:none;
+   padding:10px; 
+   border-radius:6px;
+}
+.projects a:hover{
+   background:rgba(47,48,97,80%);
+}
+
+/*-----------------------------------work exp------------------------------------------------*/
+
+.work-experience{
+   background: #A1C6D7;
+}
+
+/*-----------------------------------education------------------------------------------------*/
+
+
+
+
+footer{
+   background: #343434;
+   color:#F7FFF7;
+}
